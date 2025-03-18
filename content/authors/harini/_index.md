@@ -1,18 +1,19 @@
 ---
 # Display name
-title: 吳健雄
+title: Harini Sudha J G
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Harini Sudha
-last_name: J G
+last_name: Jembu Ganeshbabu
 
 # Status emoji
 status:
   icon: 😺
 
+color: black
 # Is this the primary user of the site?
 superuser: true
 
@@ -52,37 +53,37 @@ interests:
   - Intelligent systems
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS-MS Science
+    institution: Indian Institute of Science Education and Research, Pune
+    date_start: 2018-08-01
+    date_end: 2023-05-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+  # - area: MEng Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  # - area: BSc Artificial Intelligence
+  #   institution: Massachusetts Institute of Technology
+  #   date_start: 2016-01-01
+  #   date_end: 2020-12-31
+  #   summary: |
+  #     GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     Courses included:
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
+  #     - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
   - position: Director of Cloud Infrastructure
     company_name: GenCoin
@@ -181,6 +182,14 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-## About Me
+# Welcome!
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+## This is my online abode. Thanks for stopping by :)
+
+I’m a researcher, an infrequent but passionate writer, a science communication enthusiast, an open-source supporter, and an amateur poet. In the future, I also hope to be an educationalist and entrepreneur. I enjoy meta discussions about science and society. So if something here interests you, feel free to reach out for a chat. If we’re in the same city, I’d be up for coffee. <br>
+
+
+**This is where ideas take shape. This space will be a record of my journey.** 
+
+<i>My space will be free of LLM generated content so that I can keep the tone of my voice intact and not succumb into the average voice of a LLM agent. Any tiny grammatical inconsistencies are to be recognised as a feature of authenticity and not a bug.</i>
+{style="color: black"}

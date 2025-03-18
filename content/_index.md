@@ -12,19 +12,19 @@ sections:
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
-      username: admin
+      username: harini
       text: ""
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download CV
-        url: uploads/resume.pdf
+        url: uploads/2025CV.pdf
     design:
       css_class: dark
       background:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: pastel.jpg
           filters:
             brightness: 1.0
           size: cover
@@ -32,16 +32,14 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
-      subtitle: ''
+      title: '📚 About me'
+      subtitle: 'only academic'
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I'm an aspiring graduate student in the intersections of neuroscience AI and neuromorphic computing. Recently, I finished my research stint as RA at Forschungszentrum Jülich with PGI-15 where I worked with event cameras and multimodal transformers. I did my master thesis at KTH and was fortunate to be advised by Dr. Jörg Conradt where I was introduced to the field of neuromorphic computing. I've explored different axes of research during my formative undergraduate years to understand the brain and intelligent systems. To name some, I've been affiliated with decision lab, friendzymes, niser . This was only possible through the interdisciplinary training and course structure at IISER Pune and the freedom and opportunities it allowed. You can read more about how IISER helped me grow as a person here. 
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
     design:
       columns: '1'
+      
   - block: collection
     id: papers
     content:
